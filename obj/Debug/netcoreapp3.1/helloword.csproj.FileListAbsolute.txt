@@ -1,0 +1,10 @@
+/Users/vuanh/Documents/ASP/helloword/bin/Debug/netcoreapp3.1/helloword.deps.json
+/Users/vuanh/Documents/ASP/helloword/bin/Debug/netcoreapp3.1/helloword.runtimeconfig.json
+/Users/vuanh/Documents/ASP/helloword/bin/Debug/netcoreapp3.1/helloword.runtimeconfig.dev.json
+/Users/vuanh/Documents/ASP/helloword/bin/Debug/netcoreapp3.1/helloword.dll
+/Users/vuanh/Documents/ASP/helloword/bin/Debug/netcoreapp3.1/helloword.pdb
+/Users/vuanh/Documents/ASP/helloword/obj/Debug/netcoreapp3.1/helloword.csprojAssemblyReference.cache
+/Users/vuanh/Documents/ASP/helloword/obj/Debug/netcoreapp3.1/helloword.AssemblyInfoInputs.cache
+/Users/vuanh/Documents/ASP/helloword/obj/Debug/netcoreapp3.1/helloword.AssemblyInfo.cs
+/Users/vuanh/Documents/ASP/helloword/obj/Debug/netcoreapp3.1/helloword.dll
+/Users/vuanh/Documents/ASP/helloword/obj/Debug/netcoreapp3.1/helloword.pdb
